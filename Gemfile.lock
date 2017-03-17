@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    hyper_iterator-rails (0.0.1)
+    hyper_iterator-rails (0.0.2)
       rails (~> 4.0.5)
 
 GEM
