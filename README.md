@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/EdmundLeex/hyper_iterator-rails.svg?branch=master)](https://travis-ci.org/EdmundLeex/hyper_iterator-rails)
+
 # HyperIterator-Rails
 
 This gem is a Rails adapter for the [hyper_iterator](https://github.com/EdmundLeex/hyper_iterator) gem. 
