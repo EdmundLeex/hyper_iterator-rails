@@ -8,7 +8,6 @@ Before you start using this, **please read the docs of [hyper_iterator](https://
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'hyper_iterator'
 gem 'hyper_iterator-rails'
 ```
 
