@@ -9,9 +9,8 @@ Gem::Specification.new do |s|
   s.version     = HyperIterator::Rails::VERSION
   s.authors     = ["Edmund Li"]
   s.email       = ["edmund.xz.lee@gmail.com"]
-  # s.homepage    = "TODO"
-  s.summary     = ""
-  # s.description = "TODO: Description of HyperIteratorRails."
+  s.summary     = "Adapter for hyper_iterator for Rails"
+  s.homepage    = "https://github.com/EdmundLeex/hyper_iterator-rails"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
