@@ -48,7 +48,7 @@ class HyperIteratorRailsTest < ActiveSupport::TestCase
   test 'each! leaves an empty collection after iteration' do
     users = ActiveRecord::Base.connection.select_all('select * from users')
     users.each! { |user| nil }
-    assert users.empty?
+    assert users.count == 0
 
     users = User.all
     users.each! { |user| nil }
